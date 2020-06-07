@@ -23,6 +23,24 @@
       "name": "Gidorah",
       "power": "Lightning breath",
       "image": "https://i.ebayimg.com/images/g/kskAAOSwp2VdldA4/s-l640.jpg"
+    },
+    {
+      "name": "Taiago Almeida",
+      "power": "smile",
+      "image": "https://d2cdo4blch85n8.cloudfront.net/wp-content/uploads/2020/04/Ultraman-Kaiju-VR-Adventure-at-Tyffonium-Featured-image-copy.jpg",
+      "id": 5
+    },
+    {
+      "name": "Taiago Almeida",
+      "power": "smile",
+      "image": "https://vignette.wikia.nocookie.net/monster/images/a/ac/Kaijus.jpg/revision/latest/scale-to-width-down/340?cb=20160719215602",
+      "id": 6
+    },
+    {
+      "name": "woofy",
+      "power": "Mad",
+      "image": "https://lovethynerd.com/wp-content/uploads/2019/05/Godzilla-Filius.jpg",
+      "id": 7
     }
   ],
   "sightings": [
